@@ -1,0 +1,21 @@
+body{
+    background-color: cyan;
+}
+
+header{
+    border-color: red;
+    border-style: solid;
+    font-size: 36px;
+}
+
+.two{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.three{
+    color: red;
+    font-size: 25px;
+}
